@@ -1,0 +1,2 @@
+# GameEngine
+RenderingLibraryを利用し、ゲームランタイム、ゲーム制作機能および拡張可能なモジュール機構を提供するゲームエンジンSDK。
