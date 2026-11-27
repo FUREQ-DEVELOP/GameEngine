@@ -1,0 +1,23 @@
+name: Module Development
+description: Module Developmentの内容を記載します。
+title: "[Module Development] "
+labels: []
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: 目的・内容
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 対象範囲
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 成果・完了条件
+    validations:
+      required: true
