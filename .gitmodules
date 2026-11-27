@@ -1,0 +1,3 @@
+[submodule "External/RenderingLibrary"]
+	path = External/RenderingLibrary
+	url = https://github.com/FUREQ-DEVELOP/RenderingLibrary.git
